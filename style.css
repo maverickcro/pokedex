@@ -30,14 +30,14 @@ body {
   padding: 40px;
   box-shadow: 0 7px 15px rgba(100, 100, 100, 0.6);
 }
-.pokemon .image-container {
+.pokemon .img-container {
   height: 120px;
   width: 120px;
   border-radius: 50%;
   background-color: rgba(255, 255, 255, 0.6);
   text-align: center;
 }
-.pokemon .image-container img {
+.pokemon .img-container img {
   max-width: 89%;
   margin-top: 20px;
 }
@@ -50,5 +50,5 @@ body {
   font-size: 0.7em;
 }
 .name {
-  letter-spacing: 2px;
+  letter-spacing: 1px;
 }
